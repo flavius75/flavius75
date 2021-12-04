@@ -10,7 +10,7 @@ Coming soon ...
  
 ## How to reach me 📫
 
-[Site](flaviusbica.com)  
+[Site](https://flaviusbica.com)  
 [Linkedin](https://www.linkedin.com/in/flavius-bica/)  
 
 <!--
