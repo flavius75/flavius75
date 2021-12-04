@@ -1,8 +1,8 @@
 ## Hey, I'm Flavius 👋
 
-🧑🏻‍💻 Looking for new adventures as Web Developer. 
-🇷🇴 Born in Zalau, Romania. 
-🇫🇷 Living in Paris, France🇴
+🧑🏻‍💻 Looking for new adventures as Web Developer  
+🇷🇴 Born in Zalau, Romania  
+🇫🇷 Living in Paris, France🇴 
 
 ## What I'm working on 🛠
 
