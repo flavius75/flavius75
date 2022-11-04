@@ -4,7 +4,7 @@
  
 ## How to reach me 📫
 
-[Webite](https://flaviusbica.com)  
+[Website](https://flaviusbica.com)  
 [Linkedin](https://www.linkedin.com/in/flavius-bica/)  
 
 <!--
