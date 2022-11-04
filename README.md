@@ -1,16 +1,10 @@
 ## Hey, I'm Flavius 👋
 
 🧑🏻‍💻 Looking for new adventures as Web Developer  
-🇷🇴 Born in Zalau, Romania  
-🇫🇷 Living in Paris, France🇴 
-
-## What I'm working on 🛠
-
-Coming soon ...
  
 ## How to reach me 📫
 
-[Site](https://flaviusbica.com)  
+[Webite](https://flaviusbica.com)  
 [Linkedin](https://www.linkedin.com/in/flavius-bica/)  
 
 <!--
